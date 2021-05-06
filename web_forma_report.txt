@@ -1,0 +1,92 @@
+
+Summary: плейсхолдер поля Name веб-формы заканчивается знаком препинания "?"
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: плейсхолдер поля Name веб-формы не должен заканчиваться знаком препинания
+AR: плейсхолдер поля Name веб-формы заканчивается знаком препинания "?" 
+
+
+Summary: плейсхолдер поля Surname веб-формы заканчивается знаком препинания "?"
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: плейсхолдер поля Surname веб-формы не должен заканчиваться знаком препинания
+AR: плейсхолдер поля Surname веб-формы заканчивается знаком препинания "?" 
+
+
+Summary: плейсхолдер поля Email веб-формы заканчивается знаком препинания "."
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: плейсхолдер поля Email веб-формы не должен заканчиваться знаком препинания
+AR: плейсхолдер поля Email веб-формы заканчивается знаком препинания "." 
+
+
+Summary: плейсхолдер поля Password веб-формы заканчивается знаком препинания "."
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: плейсхолдер поля Password веб-формы не должен заканчиваться знаком препинания
+AR: плейсхолдер поля Password веб-формы заканчивается знаком препинания "." 
+
+
+
+Summary: текст на кнопке Submit смещено вправо
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: текст на кнопке Submit расположен посередине
+AR: текст на кнопке Submit смещено вправо
+
+
+Summary: веб-форма не содержит дополнительного поля подтверждения пароля Password 
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result:  веб-форма содержит дополнительное поле подтверждения пароля Password 
+AR: веб-форма не содержит дополнительного поля подтверждения пароля Password 
+
+
+Summary: веб-форма не содержит пользовательское соглашение
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: major
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: веб-форма содержит пользовательское соглашение
+AR: веб-форма не содержит пользовательское соглашение
+
+Summary: веб-форма не содержит функцию, позволяющую видеть вводимые символы в поле Password
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: веб-форма содержит функцию, позволяющую видеть вводимые символы в поле Password
+AR: веб-форма не содержит функцию, позволяющую видеть вводимые символы в поле Password
+
+
+
+Summary: в брузере мобильного устройства веб-форма выступает за рамки экрана  
+Environment: iPhone SE, браузер Safari
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: в брузере мобильного устройства веб-форма не выступает за рамки экрана
+AR: в брузере мобильного устройства веб-форма выступает за рамки экрана
+
+Summary: при нажатии кнопки Submit в сообщении об ошибке слово Error повторяется дважды
+Environment: Windows 10, Opera GX v.75.0.3969.259
+Severity: minor
+Version: 1
+STR: открыть веб-сайт http://itcareer.pythonanywhere.com
+Expected result: появляется сообщение об ошибке "Error: All Fields are Required"
+AR: появляется сообщение об ошибке "Error: Error: All Fields are Required"
+
+
+
